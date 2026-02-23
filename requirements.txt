@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+dropbox
+instructor
+groq
+jinja2
+python-multipart
